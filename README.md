@@ -20,8 +20,8 @@
 🔹 Open to **collaborations, freelance work, and innovative AI projects**!  
 
 📫 **Let's connect:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajnishkumar05)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/rajnishkumar05)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/rajnish-kumar-sharma-a583ab227/)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://x.com/Rajnish82157765)  
 [![Website](https://img.shields.io/badge/Website-%23FF5722.svg?style=flat&logo=google-chrome&logoColor=white)](https://rajnishkumar.com)  
 
 ---
@@ -55,15 +55,19 @@
 
 ## 🔥 Featured Projects
 
-📌 **AI-Powered Investment Research Tool**  
-🔹 Automates due diligence using **OpenAI, Google Vision, ProxyCurl**.  
-🔹 Extracts **market trends, patents, and founder profiles**.  
-🔹 [🔗 View Project](https://github.com/RajnishKumar05/investment-research-ai)
+📌 **IEEE-PES Website**   
+🔹 [🔗 View Project]([https://github.com/RajnishKumar05/investment-research-ai](https://github.com/RajnishKumar05/practice))
 
-📌 **IoT-Driven Smart Environment Monitor**  
-🔹 Uses **ESP32 to track air quality, humidity, and soil moisture**.  
-🔹 Displays real-time data on **React.js Dashboard**.  
-🔹 [🔗 View Project](https://github.com/RajnishKumar05/environment-monitor)
+📌 **IoT-Driven Smart Environment Monitor**   
+🔹 [🔗 View Project](https://github.com/RajnishKumar05/robo)
+
+📌 **HealthAI - AI-Powered Disease Diagnosis and Treatment Recommendation**   
+🔹 [🔗 View Project](https://github.com/RajnishKumar05/healthAi-prototype)
+
+
+📌 **Banking Management System Using C++**   
+🔹 [🔗 View Project](https://github.com/RajnishKumar05/Bank-management-system-using-c-)
+
 
 ---
 
@@ -89,11 +93,6 @@
 
 ---
 
-## 🚀 Latest Blog Posts
-
-🔹 [Understanding LLMs: A Beginner's Guide](https://yourblog.com/llm-guide)  
-  🔹 [Building an AI Chatbot with OpenAI API](https://yourblog.com/ai-chatbot)  
-🔹 [How IoT & AI Are Shaping Smart Cities](https://yourblog.com/iot-smart-cities)  
 
 ---
 
