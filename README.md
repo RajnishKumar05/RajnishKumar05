@@ -20,9 +20,9 @@
 🔹 Open to **collaborations, freelance work, and innovative AI projects**!  
 
 📫 **Let's connect:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/rajnish-kumar-sharma-a583ab227/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/itsrajnish)  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://x.com/Rajnish82157765)  
-[![Website](https://img.shields.io/badge/Website-%23FF5722.svg?style=flat&logo=google-chrome&logoColor=white)](https://rajnishkumar.com)  
+
 
 ---
 
