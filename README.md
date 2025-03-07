@@ -56,7 +56,7 @@
 ## 🔥 Featured Projects
 
 📌 **IEEE-PES Website**   
-🔹 [🔗 View Project](https://github.com/RajnishKumar05/practice)
+🔹 [🔗 View Project](https://rajnishkumar05.github.io/practice/)
 
 📌 **IoT-Driven Smart Environment Monitor**   
 🔹 [🔗 View Project](https://github.com/RajnishKumar05/robo)
