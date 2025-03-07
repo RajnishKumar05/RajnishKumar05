@@ -75,6 +75,10 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&multiline=true&width=600&height=50&lines=AI+%7C+ML+%7C+Web+Development;Open+to+Collaborations!;Let's+Build+Something+Amazing!" />
+
+
+
+  
 </p>
 
 ---
